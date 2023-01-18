@@ -1,4 +1,5 @@
 # Chatbot
+
 The project is named "RNN based conversational agent" and the goal of the project is to develop an intelligent Chabot that can generate answers to user's requirements in text form. The team used a generative based conversation agent using the seq2seq model, which is developed using Recurrent Neural Network(RNN). The model is trained on two datasets, which are dialogues from movies. The team used an augmentation method to improve the performance by replacing words with synonyms. The model was developed using TensorFlow and Keras with an attention mechanism.
 Libraries used :
 Numpy
